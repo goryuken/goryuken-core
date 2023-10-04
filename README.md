@@ -31,6 +31,7 @@ For detailed usage instructions, API documentation, and database integration gui
 ## Contribution
 We welcome contributions from the community! If you encounter bugs or have suggestions for improvements, please open an issue.
 If you'd like to contribute code, feel free to fork the repository and submit a pull request.
+- Read the [Contributing Guidelines](https://github.com/goryuken/goryuken-core/blob/main/CONTRIBUTING.md)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
